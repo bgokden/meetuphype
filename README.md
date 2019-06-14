@@ -207,5 +207,3 @@ This app has integration to the kafka and runs the defined stream in a distribut
 * Output is current the console output in the driver 
 but in production it should be another service that caches 
 and shows the result to a larger audience
-
-# meetuphype
